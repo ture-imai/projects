@@ -29,4 +29,27 @@ C:\...\R-C> claude
 > このフォルダのOとNの中に2025●月度の...  ← ここに日本語で入力
 ```
 
-以上です！
+ーーーーーーーーーーーーーーー
+git pull   → GitHubの変更をPCに取り込む
+git add    → 変更ファイルを準備する
+git commit → 変更を記録する
+git push   → PCの変更をGitHubに上げる
+
+GitHub側で編集した
+        ↓
+  git pull（手動）
+        ↓
+  ローカルに反映
+
+
+ローカルで編集した
+        ↓
+  git add
+  git commit
+  git push（手動）
+        ↓
+  GitHubに反映
+ーーーーーーーーーーーーーーー
+現在地は pwd で確認できます：
+pwd
+# → /home/sqr/projects  と表示されれば移動不要
