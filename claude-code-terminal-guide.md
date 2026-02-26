@@ -53,3 +53,5 @@ GitHub側で編集した
 現在地は pwd で確認できます：
 pwd
 # → /home/sqr/projects  と表示されれば移動不要
+
+テスト
